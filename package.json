@@ -1,9 +1,9 @@
-{
-  "name": "shopnx",
+mmer{
+  "name": "ecommerce-yunus",
   "version": "1.1.0",
-  "description": "ShopNx AngularJS Full Stack Shopping Cart Application",
+  "description": "ecommerce-yunus Application",
   "keywords": [
-    "CodeNx",
+    "Ecommerce",
     "Node.js",
     "application",
     "AngularJS",
@@ -14,9 +14,9 @@
     "Single Page Web App"
   ],
   "author": {
-    "name": "Swadesh",
-    "email": "admin@codenx.com",
-    "url": "http://www.codenx.com/"
+    "name": "yunu",
+    "email": "yunu@admin.com",
+    "url": "http://www.greetlabs.com/"
   },
   "homepage": "http://biri.in/",
   "main": "server/app.js",
